@@ -365,7 +365,7 @@ export default function HomePage() {
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763729099412-stotlhh2.jpg",
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763729101792-npi46zfs.jpg",
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763729102798-zri2aqq1.jpg"
-          ]
+          ]}
           speed={35}
           showCard={true}
         />
